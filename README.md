@@ -15,8 +15,8 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 
 1. Basics
     1. HTML
-        * Learn the basics of HTML
-        * Make a few pages as an exercise
+        [x] Learn the basics of HTML
+        [ ] Make a few pages as an exercise
     2. CSS
         * Learn the basics of CSS
         * Style pages from previous step
